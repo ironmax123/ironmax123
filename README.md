@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ironmax123&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ironmax123&count_private=false)
 
 <!--
 **ironmax123/ironmax123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
