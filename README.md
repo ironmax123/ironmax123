@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,supabase,firebase,cloudflare,html,css,javascript,php,py,typescript,github,anaconda,vscode,eclipse,idea,androidstudio,discord&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,supabase,firebase,cloudflare,html,css,javascript,go,php,py,typescript,github,anaconda,vscode,eclipse,idea,androidstudio,discord&perline=8" />
 </a>
