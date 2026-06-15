@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats-one-lyart-47.vercel.app/api?username=ironmax123&count_private=false)
-[![trophy](https://github-profile-trophy-dun-phi.vercel.app/?username=ironmax123&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=ironmax123&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-one-lyart-47.vercel.app/api/top-langs?username=ironmax123&layout=compact&&langs_count=8&card_width=320&hide=jupyter%20notebook,C%2B%2B,CMake,Ruby" />
 </a>
